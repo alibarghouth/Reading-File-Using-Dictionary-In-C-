@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Reading File Using Dictionary\obj\Debug\net6.0\Reading File Using Dictionary.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Reading File Using Dictionary\obj\Debug\net6.0\Reading File Using Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Reading File Using Dictionary\obj\Debug\net6.0\Reading File Using Dictionary.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Reading File Using Dictionary\obj\Debug\net6.0\Reading File Using Dictionary.AssemblyInfo.cs
+C:\Users\user\source\repos\Reading File Using Dictionary\obj\Debug\net6.0\Reading File Using Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Reading File Using Dictionary\bin\Debug\net6.0\Reading File Using Dictionary.exe
+C:\Users\user\source\repos\Reading File Using Dictionary\bin\Debug\net6.0\Reading File Using Dictionary.deps.json
+C:\Users\user\source\repos\Reading File Using Dictionary\bin\Debug\net6.0\Reading File Using Dictionary.runtimeconfig.json
+C:\Users\user\source\repos\Reading File Using Dictionary\bin\Debug\net6.0\Reading File Using Dictionary.dll
+C:\Users\user\source\repos\Reading File Using Dictionary\bin\Debug\net6.0\Reading File Using Dictionary.pdb
+C:\Users\user\source\repos\Reading File Using Dictionary\obj\Debug\net6.0\Reading File Using Dictionary.dll
+C:\Users\user\source\repos\Reading File Using Dictionary\obj\Debug\net6.0\refint\Reading File Using Dictionary.dll
+C:\Users\user\source\repos\Reading File Using Dictionary\obj\Debug\net6.0\Reading File Using Dictionary.pdb
+C:\Users\user\source\repos\Reading File Using Dictionary\obj\Debug\net6.0\Reading File Using Dictionary.genruntimeconfig.cache
+C:\Users\user\source\repos\Reading File Using Dictionary\obj\Debug\net6.0\ref\Reading File Using Dictionary.dll
